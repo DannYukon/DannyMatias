@@ -1,10 +1,16 @@
-:root {
-    --gradient: linear-gradient(#3874cd,#905dc8,#cf33a3,#f00065,##ee1313);
+:root{
+    --gradient: linear-gradient(
+        to top,
+        #3874cd,
+        #905dc8,
+        #cf33a3,
+        #f00065,
+        #ee1313);
 }
 
 .gradiant-animation {
     background-size:
-    background-image: var
+    background-image: 
     animation: 
 
 }
