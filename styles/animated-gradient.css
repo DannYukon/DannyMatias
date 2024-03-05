@@ -1,11 +1,7 @@
 :root{
-    --gradient: linear-gradient(
+        --gradient: linear-gradient(#3874cd,#905dc8,#cf33a3,#f00065,#ee1313);
         to top,
-        #3874cd,
-        #905dc8,
-        #cf33a3,
-        #f00065,
-        #ee1313);
+       
 }
 
 .gradiant-animation {
