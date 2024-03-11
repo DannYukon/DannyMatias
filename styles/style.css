@@ -847,7 +847,9 @@ a.sub-navigation-link:hover {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 1rem;
   }
-
+  .logo {
+    width: 5rem;
+  }
   /* Grayscale filter with full-colour on hover and tap */
   .work-page-grid-item a.grayscale img {
     filter: grayscale(100);
