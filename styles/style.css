@@ -480,7 +480,7 @@ a:active {
   grid-template-columns: 1fr;
   grid-gap: 3rem;
   min-height: 100vh;
-  background: var(--background-color-footer);
+  background: #191970;
   padding: 1rem;
 }
 
