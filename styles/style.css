@@ -740,7 +740,8 @@ a:active {
   text-align: center;
 }
 
-.sub-navigation-item {.navbar {
+.sub-navigation-item 
+.navbar {
   overflow: hidden;
   background-color: #333;}
 
