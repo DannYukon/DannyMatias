@@ -651,7 +651,8 @@ a:active {
   place-items: center;
 }
 
-.error-page-wrapper {}
+.error-page-wrapper {font-size: 1.25rem;
+  color: red;}
 
 .error-page-inner-container {
   text-align: center;
@@ -675,7 +676,8 @@ a:active {
   place-items: center;
 }
 
-.play-page-wrapper {}
+.play-page-wrapper {font-size: 1.25rem;
+  color: blue;}
 
 .play-page-inner-container {
   text-align: center;
